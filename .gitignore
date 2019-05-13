@@ -1,0 +1,8 @@
+#logs#
+*.ipynb_checkpoints/
+
+#other people's scripts#
+
+#images#
+*.png
+*.pdf
